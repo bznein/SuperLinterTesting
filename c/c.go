@@ -1,5 +1,8 @@
 package c
 
-func main() {
+func cc() error {
+	return nil
 
+}
+func main() {
 }
