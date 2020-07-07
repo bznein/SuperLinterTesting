@@ -44,5 +44,5 @@ jobs:
         uses: docker://bznein/superlinter:latest
         env:
           VALIDATE_ALL_CODEBASE: false
-          VALIDATE_ANSIBLE: false
+          VALIDATE_GO: true
 ...
